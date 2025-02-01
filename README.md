@@ -2,11 +2,11 @@
 <h3 align="center">Developer. Designer. Helper. #freelancer.</h3>
 
 - 👋 Hi, I’m @tejis
-- 
+  
 - 👀 I’m interested in HTML5, CSS, SCSS, BOOTSTRAP, Laravel, CodeIgniter, PHP, Wordpress, Photoshop Web Designing and editing
-- 
+  
 - 💬 Ask me about **Anything VUE, NextJs, JavaScript, Laravel, WordPress, ecommerce website or online store, HTML/CSS/SCSS **
-- 
+  
 - 📫 How to reach skype: tejindersi@hotmail.com gmail : tejinder.animator@gmail.com
 
 <!---
