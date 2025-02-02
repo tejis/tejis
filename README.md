@@ -9,7 +9,7 @@
   
 - 💬 Ask me about **Anything VUE, NextJs, JavaScript, Laravel, WordPress, ecommerce website or online store, HTML/CSS/SCSS **
   
-- 📫 How to reach skype: tejindersi@hotmail.com gmail : tejinder.animator@gmail.com
+- 📫 How to reach <a href="skype:tejinder.animator?call">Skype </a> : tejinder.animator OR <a href="mailto:tejinder.animator@gmail.com">Gmail</a>
 
 <!---
 tejis/tejis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
