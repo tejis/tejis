@@ -3,6 +3,8 @@
 
 - 👋 Hi, I’m @tejis
   
+- 🤝 I am working as a freelancer at **Upwork**
+  
 - 👀 I’m interested in HTML5, CSS, SCSS, BOOTSTRAP, Laravel, CodeIgniter, PHP, Wordpress, Photoshop Web Designing and editing
   
 - 💬 Ask me about **Anything VUE, NextJs, JavaScript, Laravel, WordPress, ecommerce website or online store, HTML/CSS/SCSS **
